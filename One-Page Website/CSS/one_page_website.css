@@ -1,0 +1,64 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.contact {
+    width: 50%;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 1px auto;
+    background-color: rgba(168, 92, 82, 0.705);
+    box-shadow: -1px -1px -1px 0 rgba(0, 0, 0, 0.1), 2px 3px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.contact input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8D8E8F;
+    padding: 20 10 20 70;
+    width: 80%;
+    border-top: 1px solid #090B0D;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid #090B0D;
+    margin: 10px 1em;
+    border-radius: 7px;
+    background: #13161B;
+    box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
+    font-family: 'Raleway' sans-serif;
+}
+
+.contact input[type="text"]:hover {
+    box-shadow: 0 0 12px rgba(216, 230, 21, 0.5);
+}
+
+#contact p {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    color: #a56134;
+    font-weight: 350;
+    font-size: .5cm;
+    letter-spacing: 0pt;
+    word-spacing: 0pt;
+}
+
+#contact {
+    background-color: rgba(216, 230, 21, 0.5);
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+#contact h1,
+#contact h2 {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+    color: #a56134;
+    font-weight: 400;
+    font-size: .5;
+    letter-spacing: 0pt;
+    word-spacing: 0pt;
+}
