@@ -5,6 +5,9 @@ h3 {
 body {
     background-color: lightblue;
     color: darkblue;
+}
+
+img {
     border-style: dashed;
     border-width: 2px;
     border-color: red;
